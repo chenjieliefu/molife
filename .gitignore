@@ -1,0 +1,11 @@
+node_modules/
+dist/
+server-dist/
+.env
+molife.env
+.env.local
+data/*.db
+data/*.db-shm
+data/*.db-wal
+*.tsbuildinfo
+.DS_Store
